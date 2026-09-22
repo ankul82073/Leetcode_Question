@@ -12,10 +12,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/ankul82073/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ankul82073/Leetcode_Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/ankul82073/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
