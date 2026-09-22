@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ankul82073/Leetcode_Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3904-smallest-stable-index-ii) |
@@ -22,5 +23,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/ankul82073/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
