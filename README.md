@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/ankul82073/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
+| [0367-valid-perfect-square](https://github.com/ankul82073/Leetcode_Question/tree/master/0367-valid-perfect-square) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/ankul82073/Leetcode_Question/tree/master/0367-valid-perfect-square) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankul82073/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
