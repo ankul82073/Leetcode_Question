@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankul82073/Leetcode_Question/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankul82073/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankul82073/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankul82073/Leetcode_Question/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/ankul82073/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [1096-brace-expansion-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/1096-brace-expansion-ii) |
