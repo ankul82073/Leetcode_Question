@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankul82073/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankul82073/Leetcode_Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankul82073/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankul82073/Leetcode_Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ankul82073/Leetcode_Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3904-smallest-stable-index-ii) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankul82073/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankul82073/Leetcode_Question/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
