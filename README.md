@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankul82073/Leetcode_Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ankul82073/Leetcode_Question/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
