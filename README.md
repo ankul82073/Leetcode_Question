@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankul82073/Leetcode_Question/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/ankul82073/Leetcode_Question/tree/master/0046-permutations) |
 | [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankul82073/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankul82073/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankul82073/Leetcode_Question/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/ankul82073/Leetcode_Question/tree/master/0046-permutations) |
 | [1096-brace-expansion-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
