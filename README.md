@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ankul82073/Leetcode_Question/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/ankul82073/Leetcode_Question/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/ankul82073/Leetcode_Question/tree/master/0221-maximal-square) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankul82073/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankul82073/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankul82073/Leetcode_Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankul82073/Leetcode_Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankul82073/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/ankul82073/Leetcode_Question/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/ankul82073/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankul82073/Leetcode_Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Trie
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/ankul82073/Leetcode_Question/tree/master/0221-maximal-square) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankul82073/Leetcode_Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
