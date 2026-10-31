@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ankul82073/Leetcode_Question/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/ankul82073/Leetcode_Question/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/ankul82073/Leetcode_Question/tree/master/0221-maximal-square) |
+| [0598-range-addition-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/0598-range-addition-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankul82073/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankul82073/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankul82073/Leetcode_Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ankul82073/Leetcode_Question/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/ankul82073/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
 | [0367-valid-perfect-square](https://github.com/ankul82073/Leetcode_Question/tree/master/0367-valid-perfect-square) |
+| [0598-range-addition-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/0598-range-addition-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankul82073/Leetcode_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
